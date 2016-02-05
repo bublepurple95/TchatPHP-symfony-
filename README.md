@@ -1,13 +1,13 @@
 # TchatPHP-symfony-
 Un projet de tchat PHP basé sur le frimework symfony 
 
-#Team 
+# Team 
 Notre team est composé d'un cdp, de deux developpeurs, d'un developpeur front-end et d'un copy-writer. 
 
-#Structure de base de donnée 
+# Structure de base de donnée 
  
- ##Utilisateur
- 	-id 
+ ## Utilisateur
+ 	1. id 
  	-Nom 
  	-Prénom 
  	-Promotion 
@@ -16,14 +16,14 @@ Notre team est composé d'un cdp, de deux developpeurs, d'un developpeur front-e
  	-Url Photo 
  	-Groupe de discussion 
 
- ##Message 
+ ## Message 
  	-id 
  	-Contenu 
  	-Type 
  	-Auteur
  	-Timestamp
 
- ##Groupe de discussion 
+ ## Groupe de discussion 
  	-id
  	-Auteur
  	-Nom
