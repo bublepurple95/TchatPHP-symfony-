@@ -5,5 +5,30 @@ Un projet de tchat PHP basé sur le frimework symfony
 Notre team est composé d'un cdp, de deux developpeurs, d'un developpeur front-end et d'un copy-writer. 
 
 #Structure de base de donnée 
- Martin est un con
+ 
+ ##Utilisateur
+ 	-id 
+ 	-Nom 
+ 	-Prénom 
+ 	-Promotion 
+ 	-Classe
+ 	-Groupe de chat
+ 	-Url Photo 
+ 	-Groupe de discussion 
+
+ ##Message 
+ 	-id 
+ 	-Contenu 
+ 	-Type 
+ 	-Auteur
+ 	-Timestamp
+
+ ##Groupe de discussion 
+ 	-id
+ 	-Auteur
+ 	-Nom
+ 	-Messages
+ 	-Privé / Public
+ 	-Membres 
+
 
