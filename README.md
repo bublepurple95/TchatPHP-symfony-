@@ -17,18 +17,18 @@ Notre team est composé d'un cdp, de deux developpeurs, d'un developpeur front-e
 1. Groupe de discussion 
 
 ## Message 
--id 
--Contenu 
--Type 
--Auteur
--Timestamp
+1. id 
+1. Contenu 
+1. Type 
+1. Auteur
+1. Timestamp
 
 ## Groupe de discussion 
--id
--Auteur
--Nom
--Messages
--Privé / Public
--Membres 
+1. id
+1. Auteur
+1. Nom
+1. Messages
+1. Privé / Public
+1. Membres 
 
 
